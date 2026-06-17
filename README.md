@@ -120,7 +120,7 @@
       <img
         width="100%"
         height="195"
-        src="https://github-readme-stats.vercel.app/api?username=AnoushkaBaidya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9"
+       src="https://github-readme-stats.vercel.app/api?username=AnoushkaBaidya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&v=2026"
         alt="GitHub stats"
       />
     </td>
