@@ -67,7 +67,7 @@
     <td width="50%" valign="top">
   <h3>Multimodal Product Intelligence</h3>
   <p><strong>Vision-language product understanding </strong></p>
-  <p>End-to-end multimodal pipeline that transforms Amazon Berkeley Objects data into instruction datasets, fine-tunes Qwen2-VL with QLoRA, benchmarks base versus adapter performance, and serves structured predictions through FastAPI with reproducible release evidence.</p>
+  <p>End-to-end multimodal pipeline using Spark, Qwen2-VL, and QLoRA to extract structured product attributes, benchmark base versus fine-tuned models, and serve reproducible multimodal inference with FastAPI.</p>
 
   <p><strong>Impact</strong><br/>
     <code>+48.7pp Exact Match</code>
@@ -91,9 +91,9 @@
 </table>
 
 <h2 align="left" id="tech-stack">Tech Stack</h2>
-
+<div align="center">
 <table>
-  <tr>
+  <tr align="center">
     <td width="25%" align="center">
       <strong>ML and Deep Learning</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="ML and deep learning stack"/>
@@ -122,42 +122,28 @@
     </td>
   </tr>
 </table>
-
+</div>
 <h2 align="left" id="github-stats">GitHub Stats</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img
-        width="100%"
-        height="195"
-       src="https://github-readme-stats.vercel.app/api?username=AnoushkaBaidya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&v=2026"
-        alt="GitHub stats"
-      />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img
-        width="100%"
-        height="195"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnoushkaBaidya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnoushkaBaidya&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa" alt="GitHub streak" />
 </p>
+<h2 align="left" id="github-activity">GitHub Activity</h2>
 
-
-<h2 align="left" id="contribution-snake">Contribution Snake</h2>
-
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnoushkaBaidya&bg_color=0d1117&color=ffffff&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true&radius=8"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+<h4 align="center" id="github-activity"> Contribution Snake </h4>
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnoushkaBaidya/AnoushkaBaidya/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnoushkaBaidya/AnoushkaBaidya/output/github-snake.svg"/>
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AnoushkaBaidya/AnoushkaBaidya/output/github-snake.svg"/>
 </picture>
+</p>
 
 <p align="center">
   <strong>Building reliable ML systems that perform in production, not just in notebooks.</strong>
