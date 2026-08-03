@@ -65,17 +65,28 @@
       <p><a href="https://github.com/AnoushkaBaidya/DocInsight">View Repo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>ML Portfolio App</h3>
-      <p><strong>Interactive portfolio for production ML projects</strong></p>
-      <p>Streamlit portfolio that packages architecture walkthroughs, deployment stories, model evaluation results, dashboards, and benchmark snapshots into one demo surface.</p>
-      <p><strong>Focus</strong><br/>
-      <code>Production ML</code> <code>Computer Vision</code> <code>MLOps</code> <code>RAG</code> <code>LLMOps</code></p>
-      <p>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <p><a href="https://github.com/AnoushkaBaidya/ml-portfolio-streamlit">View Repo</a></p>
-    </td>
+  <h3>Multimodal Product Intelligence</h3>
+  <p><strong>Vision-language product understanding </strong></p>
+  <p>End-to-end multimodal pipeline that transforms Amazon Berkeley Objects data into instruction datasets, fine-tunes Qwen2-VL with QLoRA, benchmarks base versus adapter performance, and serves structured predictions through FastAPI with reproducible release evidence.</p>
+
+  <p><strong>Impact</strong><br/>
+    <code>+48.7pp Exact Match</code>
+    <code>+30.3pp Macro F1</code>
+    <code>+28.5pp Micro F1</code>
+    <code>+83.9pp JSON Compliance</code>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Qwen2--VL-7C3AED?style=flat-square"/>
+    <img src="https://img.shields.io/badge/QLoRA-A78BFA?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  </p>
+
+  <p><a href="https://github.com/AnoushkaBaidya/multimodal-product-intelligence">View Repo</a></p>
+</td>
   </tr>
 </table>
 
